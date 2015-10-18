@@ -1,0 +1,12 @@
+C:\Users\Tran Tien Dat\Desktop\datttph02973_ass2_DTDM\QLKH\QLKH\bin\Debug\QLKH.exe.config
+C:\Users\Tran Tien Dat\Desktop\datttph02973_ass2_DTDM\QLKH\QLKH\bin\Debug\QLKH.exe
+C:\Users\Tran Tien Dat\Desktop\datttph02973_ass2_DTDM\QLKH\QLKH\bin\Debug\QLKH.pdb
+C:\Users\Tran Tien Dat\Desktop\datttph02973_ass2_DTDM\QLKH\QLKH\bin\Debug\QLKH.xml
+C:\Users\Tran Tien Dat\Desktop\datttph02973_ass2_DTDM\QLKH\QLKH\obj\Debug\QLKH.vbprojResolveAssemblyReference.cache
+C:\Users\Tran Tien Dat\Desktop\datttph02973_ass2_DTDM\QLKH\QLKH\obj\Debug\QLKH.Frmproduct.resources
+C:\Users\Tran Tien Dat\Desktop\datttph02973_ass2_DTDM\QLKH\QLKH\obj\Debug\QLKH.Frmqlbh.resources
+C:\Users\Tran Tien Dat\Desktop\datttph02973_ass2_DTDM\QLKH\QLKH\obj\Debug\QLKH.Resources.resources
+C:\Users\Tran Tien Dat\Desktop\datttph02973_ass2_DTDM\QLKH\QLKH\obj\Debug\QLKH.vbproj.GenerateResource.Cache
+C:\Users\Tran Tien Dat\Desktop\datttph02973_ass2_DTDM\QLKH\QLKH\obj\Debug\QLKH.exe
+C:\Users\Tran Tien Dat\Desktop\datttph02973_ass2_DTDM\QLKH\QLKH\obj\Debug\QLKH.xml
+C:\Users\Tran Tien Dat\Desktop\datttph02973_ass2_DTDM\QLKH\QLKH\obj\Debug\QLKH.pdb
